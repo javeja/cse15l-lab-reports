@@ -1,4 +1,4 @@
-# No Arguments
+# CD no Arguments
 I got no results from this code. I got that because 'cat' shows what is in a file or a folder. Because it has no reference there is nothing to show. This is not an error.
 ![Image](https://github.com/javeja/cse15l-lab-reports/blob/main/cd%20example.png)	
 # File Argument
