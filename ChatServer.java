@@ -12,7 +12,7 @@ class Handler implements URLHandler {
                 String[] message = url.getQuery().split("user=");
                 }
             }
-      return String.format(user+": "+message);
+      return String.format("user"+": "+"message");
 }
 
 class NumberServer {
