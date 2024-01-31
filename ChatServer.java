@@ -4,7 +4,6 @@ import java.net.URI;
 class Handler implements URLHandler {
     // The one bit of state on the server: a number that will be manipulated by
     // various requests.
-    int num = 0;
 
     public String handleRequest(URI url) {
         if (url.getPath().equals("/")) {
@@ -13,7 +12,7 @@ class Handler implements URLHandler {
                 String[] message = url.getQuery().split("user=");
                 }
             }
-      return String.format(<user>+": "+<message>);
+      return String.format(user+": "+message);
 }
 
 class NumberServer {
