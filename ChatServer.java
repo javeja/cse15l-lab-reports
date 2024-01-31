@@ -6,7 +6,7 @@ class Handler implements URLHandler {
     // various requests.
 
     public String handleRequest(URI url) {
-        if (url.getPath().equals("/")) {
+        if (url.getPath().contains("/add")) {
             String[] user = url.getQuery().split("s=");
           if (url.getPath().contains("/add")) {
                 String[] message = url.getQuery().split("user=");
