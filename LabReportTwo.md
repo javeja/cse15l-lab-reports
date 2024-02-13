@@ -7,13 +7,13 @@ I was not able to implement the url. It would not work when I ran it.
 # PART 2
 
 ## Private
-![Image](priviteBash.png)
+![Image](Lab2private.png)
 
 ## Public
-![Image](publicBash.png)	
+![Image](Lab2public.png)	
 
 ## No Password
-![Image](noPassBash.png)	
+![Image](Lab2terminal.png)	
 
 # PART 3
 
