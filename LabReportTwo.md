@@ -6,7 +6,7 @@
 The methods used are `url.getPath()`, `.contains()`, `.split()`, and `format()`. The argruments were the parts of the url that I needed to get and return out. I used a few String arrays called message, temp, and user to extract the text from the url.
 
 ## Image 2
-![Image](servershadow.png)
+![Image](severshadow.png)
 The methods used are `url.getPath()`, `.contains()`, `.split()`, and `format()`. The argruments were the parts of the url that I needed to get and return out. I used a few String arrays called message, temp, and user to extract the text from the url.
 
 # PART 2
