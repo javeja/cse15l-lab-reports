@@ -14,4 +14,5 @@
 ![Image](fixedList.png)
 ## The files was not incrementing the size because Jamie didn't set her value to change. Jamie ran the junit tester provided to run her test. She fixed the bug by putting size++ after adding a value to the linked list.
 
+# Part 1
 ## One thing from this class that I learned was how to use vim. Vim is a en editer for code. You can use it in the terminal to edit and change code then to show thoes edits in the oringinal files. I find Vim to be very useful and fun. It was not a har concept for me to grasp like other parts of this class so that also added to how much I like it. IT is also really useful if you don't want to have to go all the way to the code to edit anything. It't all just right there for you.
